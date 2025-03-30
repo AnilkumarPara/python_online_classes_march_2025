@@ -79,7 +79,7 @@
 21. Functions
     1. Functions basics
     2. Types of functions
-    3. Types of function arguments
+    3. Types of function arguments (Positional, Keyword, Default, *args and **kwargs)
     4. Why should we go for the functions
     5. Recursive functions
     6. Advantages & Disadvantages of Recursive function
