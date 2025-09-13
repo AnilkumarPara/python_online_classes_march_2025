@@ -1,0 +1,35 @@
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+Cat CatCat
+_
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+I love cat cats
+
+anilitedu.com
+
+918-777-4321
+897.333.1234
+897*333*1234
+800-333-1234
+900-222-3245
+700-222-3245
+600-222-3245
+
+Mr. Sachin
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+
+57 01 00
+
+pan
+man
+ban
+can
+kan
+
